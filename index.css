@@ -34,7 +34,8 @@ h1, h2 {
 .tools{
 	padding: 25px;
 	padding-top: 15px; !important;
-	height: 430px;
+	padding-bottom: 15px;  !important;
+	min-height: 20px;
 	border: 5px solid #333333;
 	margin: 20px;
 	width: 75%;
@@ -44,7 +45,8 @@ h1, h2 {
 .toolsTwo{
 	padding: 25px;
 	padding-top: 15px; !important;
-	height: 225px;
+	padding-bottom: 15px;  !important;
+	min-height: 15vH;
 	border: 5px solid #333333;
 	margin: 50px;
 	width: 75%;
