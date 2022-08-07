@@ -1,0 +1,60 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+.logo{
+	height: 35px; !important;
+	width: 35px; !important;
+}
+
+h1, h2 {
+	font-family: 'Playfair Display', sans-serif;
+	color: black; !important;
+}
+
+#firstSect{
+	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#secondSect{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: left;
+	margin-top: -50px;
+}
+
+.jumbotron{
+	background-color: transparent; !important;
+}
+
+.tools{
+	padding: 25px;
+	padding-top: 15px; !important;
+	height: 430px;
+	border: 5px solid #333333;
+	margin: 20px;
+	width: 75%;
+	color: black;
+}
+
+.toolsTwo{
+	padding: 25px;
+	padding-top: 15px; !important;
+	height: 225px;
+	border: 5px solid #333333;
+	margin: 50px;
+	width: 75%;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+p{
+	margin: 15px;
+}
